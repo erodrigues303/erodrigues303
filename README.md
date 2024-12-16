@@ -60,7 +60,7 @@
 <!--START_SECTION:activity-->
 1. 🔄 Updated repository [Automatic Door Closer](https://github.com/erodrigues303/automatic-door-closer)
 2. 🗣 Bookmarked [markitdown](https://github.com/microsoft/markitdown)
-3. 📌 Pinned [2311](https://github.com/mahmouddahlan/2311)
+3. 📌 Pinned [Stand Alone Java IMDB Clone](https://github.com/erodrigues303/standalone-java-imdb-clone)
 <!--END_SECTION:activity-->
 
 ---
