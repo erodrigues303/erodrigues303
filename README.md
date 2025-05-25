@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 - ⌨️ I’m a third year Software Engineering student
-- ☁️ I’m currently learning AWS
+- ☁️ I’m currently learning TypeScript
 - 📫 How to reach me: [ericrodrigues123@hotmail.com](mailto:ericrodrigues123@hotmail.com)
 ---
 
